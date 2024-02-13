@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PayMate</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiration_date">Expiration Date (MM/YY)</string>
+    <string name="cvv">CVV</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="check_back_of_your_card">Check Back of your Card</string>
+    <string name="invalid_date">Invalid Date</string>
+</resources>
